@@ -16,7 +16,7 @@ li {
 }
 
 header {
-	background-color: white;
+	background-color: lightgrey;
 	text-align: center;
 }
 
@@ -38,6 +38,10 @@ header .home a {
 	top: 0px;
 	width: 50px;
 	font-size: 80px
+}
+
+header .currentPage a {
+	color: coral;
 }
 
 section {
