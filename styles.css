@@ -41,13 +41,18 @@ header .home a {
 }
 
 header .currentPage a {
-	color: coral;
+	color: #008888;
+	font-size: 200%;
 }
 
 section {
 	background-color: white;
 	margin-top: 10px;
 	margin-bottom: 10px;
+}
+
+section a{
+	color: blue;
 }
 
 div {
