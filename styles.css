@@ -1,3 +1,8 @@
+img:hover {
+	transform: scale(1.05);
+	color: blue;
+}
+
 body {
 	background: grey;
 	font-family: Helvetica Nene, Helvetica, Arial, sans-serif
